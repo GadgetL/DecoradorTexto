@@ -17,7 +17,7 @@ public abstract class Texto{
     
     public abstract String leer(); //retorna (lee) el valor del dato
     public abstract void escribir(String dato, JTextPane jtxtPane); //escribir el valor del dato
-
+	//ejemplo
     public JTextPane getJtxtPane() {
         return jtxtPane;
     }
